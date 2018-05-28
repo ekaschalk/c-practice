@@ -1,0 +1,1 @@
+Exploring C to understand Emacs source code.
